@@ -17,7 +17,7 @@ You can easily install this package using the following command:
 
 ```shell
 go get github.com/fckveza/VHtearCryptoutil
-
+```
 #### Extended usage
 
 ```go
